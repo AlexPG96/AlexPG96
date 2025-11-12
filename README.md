@@ -25,7 +25,7 @@ Welcome to my Github page! I am Alex, <strong>Front-end Developer</strong> and I
 <img src="https://github-readme-stats.vercel.app/api?username=alexpg96&show_icons=true&theme=radical" alt="AlexPG96 Stats" width="50%" align="right"/></a>
 
 #### 🌱 Things I am currently working on: 
-- Working at ISID in Madrid, Spain.  🚀 *coming soon*
+- Working as Tech Lead Front-end Developer in Madrid, Spain.  🚀
 - Finish my Meteorlogic App: <a href="https://alexpg-eolosgame.netlify.app/" target="_blank">Eolo's Game</a>
 - Finish my SPA in Nuxt JS: <a href="https://alexpg-stikerz.netlify.app/" target="_blank">StikerZ</a>
 
